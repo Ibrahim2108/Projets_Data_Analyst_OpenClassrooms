@@ -5,10 +5,10 @@ Ce dépôt contient une partie des projets réalisés dans le cadre du parcours 
 ## &#128295; Outils utilisés
 |                   |Projet 10 |Projet 9 |Projet 8 |Projet 7 |Projet 6 |Projet 5 |Projet 4 |Projet 3 |
 |:-----------------:|:--------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|Jupyter<br>Notebook|&#10003;  |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
-|Python             |&#10003;  |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
-|Numpy              |&#10003;  |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
-|Pandas             |&#10003;  |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Jupyter<br>Notebook|&#10003;  |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Python             |&#10003;  |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Numpy              |&#10003;  |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
+|Pandas             |&#10003;  |&#10003; |         |&#10003; |&#10003; |&#10003; |&#10003; |         |
 |Matplotlib         |&#10003;  |&#10003; |         |         |&#10003; |&#10003; |&#10003; |         |
 |Seaborn            |&#10003;  |&#10003; |         |         |         |         |         |         |
 |ScyPy              |&#10003;  |&#10003; |         |         |&#10003; |         |         |         |
@@ -19,7 +19,7 @@ Ce dépôt contient une partie des projets réalisés dans le cadre du parcours 
 |Knime              |          |         |         |&#10003; |         |         |         |         |
 |Power BI           |          |         |&#10003; |         |         |         |         |         |
 |SQLite             |          |         |         |         |         |         |         |&#10003; |
-|Power Query        |          |         |         |         |         |         |         |&#10003; |
+|Power Query        |          |         |&#10003; |         |         |         |         |&#10003; |
 
 ## [Projet 10 : Détectez des faux billets avec Python](./Détecteur_de_faux_billet/)
 
@@ -42,7 +42,7 @@ En tant que consultant *Data Analyst* nous effectuons une prestation en régie a
 * Explorer différentes solutions pour la mise en place de l'algorithme et retenir le modèle le plus adapté.
 * Tester notre algorithme sur de nouvelles données.
 
-## [Projet 9 : Produisez une étude de marché avec Python]
+## [Projet 9 : Produisez une étude de marché avec Python](./Etude_de_marché/)
 
 ### &#127891; Compétences acquises
 * Effectuer un clustering simple.
@@ -56,7 +56,7 @@ Nous sommes en poste chez **La poule qui chante**, une entreprise française d�
 Les données utilisées sont issues des [statistiques de la *Food and Agriculture Organization of the United Nations (FAO)*](https://www.fao.org/faostat/fr/#home). Elles nous permettront de définir les critères de l'analyse. Ces critères, seront appelés **indicateurs** dans la suite de l'étude.
 * Réaliser le *clustering* des pays grâce à la classification ascendante hiérarchique (CAH) et à la méthode des k-means puis réaliser une analyse en composantes principales (ACP) dans un second *notebook*.
 
-## [Projet 8 : Rapport de mixité sociale dans les lycées avec Power BI]
+## [Projet 8 : Faites une étude sur l'eau potable avec Power BI](./Etude_sur_l'eau_potable/)
 
 ### &#127891; Compétences acquises
 * Synthétiser des résultats à destination d'un client.
@@ -65,12 +65,12 @@ Les données utilisées sont issues des [statistiques de la *Food and Agricultur
 * Générer des graphiques adaptés aux types de données.
 
 ### &#128203; Scénario
-Pour ce projet, nous avons la liberté de choisir une thématique qui nous intéresse à la place du sujet proposé. J'ai fait de traiter d'un sujet que les médias ont traité plusieurs fois au début de l'année 2023. Ce sujet porte sur les disparités sociales qui existent dans les lycées.
+Consultant Data Analyst en mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde. Le but de cette mission est de réaliser un tableau de bord présentant une vue globale de l’accès à l’eau potable dans le monde. Celui-ci permettra de choisir le pays à cibler pour apporter son aide à ce pays.
 
 ### &#127919; Objectifs
-Créer un rapport **Power BI** d'au moins 3 pages. Les données sources ont été prétraitées dans un *notebook* **Juypter** en utilisant la librairie **Pandas**. Il fallait également créer un *blueprint* synthétisant les fontionnalités du rapport ainsi qu'un *mock-up* reprenant le visuel des futures pages en basse définition.
+Créer un rapport **Power BI** d'au moins 3 pages. Les données sources ont été prétraitées à l'aide de **Power Query**. Il fallait également créer un *blueprint* synthétisant les fontionnalités du rapport ainsi qu'un *mock-up* reprenant le visuel des futures pages en basse définition.
 
-## [Projet 7 : Analysez des indicateurs de l'égalité femme-homme avec Knime]
+## [Projet 7 : Analysez des indicateurs de l'égalité femme-homme avec Knime](./Analysez_des_indicateurs_de_l_égalité_femme-homme/)
 
 ### &#127891; Compétences acquises
 * Transférer des données vers une zone de préparation.
@@ -83,7 +83,7 @@ Nous sommes employé, en tant que *Data Analyst*, d'un cabinet de consultant sp�
 ### &#127919; Objectifs
 Automatiser la création d'un rapport de diagnostic sur l'égalité professionnelle à partir des données du Système d’Informations des Ressources Humaines (SIRH) en utilisant le logiciel **Knime**. Il faut créer un *workflow* permettant d'importer et de préparer les données, de générer un fichier CSV (respectant la RGPD) utilisable pour de futures analyses et créer les graphiques des indicateurs du diagnostic.
 
-## [Projet 6 : Analyser les ventes d'une librairie avec Python]
+## [Projet 6 : Analyser les ventes d'une librairie avec Python](./Analysez_les_ventes_d_une_librairie/)
 
 ### &#127891; Compétences acquises
 * Réaliser un test statistique.
@@ -96,7 +96,7 @@ Nous sommes consultant *Data Analyst* rattaché au service Marketing chez Lapage
 ### &#127919; Objectifs
 Obtenir un jeu de données exploitables à partir des fichiers source, puis réaliser une analyse complète : chiffres clés, KPI, graphiques, etc.. Nous réalisons également plusieurs tests statistiques afin de vérifier la corrélation entre différentes variables liées au profil des clients.
 
-## [Projet 5 : Optimiser la gestion des données d'une boutique]
+## [Projet 5 : Optimiser la gestion des données d'une boutique](./Optimisez_la_gestion_des_données_d_une_boutique_IKIJ_Ibrahim/)
 
 ### &#127891; Compétences acquises
 * Gérer les erreurs et les incohérences présentes sur des données stockées.
@@ -109,7 +109,7 @@ Dans le cadre de ce projet, nous sommes *Data Analyst freelance* en mission chez
 ### &#127919; Objectifs
 Obtenir un jeu de données cohérent et complet à partir des fichiers qui nous ont été fournis puis étudier les ventes de la boutique en ligne. Il faudra également réaliser une étude univariée sur les prix de ventes des produits.
 
-## [Projet 4 : Réaliser une étude de santé publique]
+## [Projet 4 : Réaliser une étude de santé publique](./Etude_de_santé_publique/)
 
 ### &#127891; Compétences acquises
 * Rédiger et présenter une méthodologie d'exploration et d'analyse des données.
@@ -122,7 +122,7 @@ Nous intervenons en tant que *Data Analyst* au sein d'une équipe de chercheurs 
 ### &#127919; Objectifs
 Réaliser une étude sur le thème de la sous-nutrition et livrer nos analyses.
 
-## [Projet 3 : Créez et utilisez une base de données immobilière avec SQL]
+## [Projet 3 : Créez et utilisez une base de données immobilière avec SQL](./Créez et utilisez une base de données immobilière avec SQL/)
 ### &#127891; Compétences acquises
 * Mettre à jour un catalogue de données.
 * Créer des tables dans une base de données.
