@@ -21,7 +21,7 @@ Ce dépôt contient une partie des projets réalisés dans le cadre du parcours 
 |SQLite             |          |         |         |         |         |         |         |&#10003; |
 |Power Query        |          |         |         |         |         |         |         |&#10003; |
 
-## [Projet 10 : Détectez des faux billets avec Python]
+## [Projet 10 : Détectez des faux billets avec Python](./Détecteur_de_faux_billet/)
 
 ### &#127891; Compétences acquises
 * Réaliser une régression linéaire.
