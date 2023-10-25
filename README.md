@@ -14,8 +14,6 @@ Ce dépôt contient une partie des projets réalisés dans le cadre du parcours 
 |ScyPy              |&#10003;  |&#10003; |         |         |&#10003; |         |         |         |
 |scikit-learn       |&#10003;  |&#10003; |         |         |         |         |         |         |
 |statsmodels        |&#10003;  |         |         |         |         |         |         |         |
-|Joblib             |&#10003;  |         |         |         |         |         |         |         |
-|pathlib            |&#10003;  |         |         |         |         |         |         |         |
 |Knime              |          |         |         |&#10003; |         |         |         |         |
 |Power BI           |          |         |&#10003; |         |         |         |         |         |
 |SQLite             |          |         |         |         |         |         |         |&#10003; |
