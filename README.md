@@ -1,4 +1,3 @@
-
 <img src='./logo-oc.png' width=200x />
 
 # OpenClassrooms
