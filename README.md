@@ -1,4 +1,4 @@
-<img src='./oc-logo.jpg' width=64x />
+
 <img src='./logo-oc.png' width=100x />
 
 # OpenClassrooms
