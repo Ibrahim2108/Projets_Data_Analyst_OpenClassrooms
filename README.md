@@ -122,7 +122,7 @@ Nous intervenons en tant que *Data Analyst* au sein d'une équipe de chercheurs 
 ### &#127919; Objectifs
 Réaliser une étude sur le thème de la sous-nutrition et livrer nos analyses.
 
-## [Projet 3 : Créez et utilisez une base de données immobilière avec SQL](./Créez et utilisez une base de données immobilière avec SQL/)
+## [Projet 3 : Créez et utilisez une base de données immobilière avec SQL](./Créez_et_utilisez_une_base_de_données_immobilière/)
 ### &#127891; Compétences acquises
 * Mettre à jour un catalogue de données.
 * Créer des tables dans une base de données.
