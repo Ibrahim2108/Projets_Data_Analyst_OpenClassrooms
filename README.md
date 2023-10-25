@@ -1,4 +1,5 @@
 <img src='./oc-logo.jpg' width=64x />
+<img src='./logo-oc.png' width=64x />
 
 # OpenClassrooms
 Ce dépôt contient une partie des projets réalisés dans le cadre du parcours de formation *[Data Analyst](https://openclassrooms.com/fr/paths/324-data-analyst)* dispensé par OpenClassrooms.
